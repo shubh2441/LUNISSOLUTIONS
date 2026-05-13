@@ -404,9 +404,9 @@ Button
 
 .btn-primary{
     color: #fff;
-    background-color: #ff6863;
+    background-color: #2c5aa0;
     border:1px solid;
-    border-color: #ff6863;
+    border-color: #2c5aa0;
     padding: 1rem 2rem;
 }
 .btn-primary:hover{
