@@ -1092,7 +1092,7 @@ FAQ Page
 }
 
 .faq_main_content h6 + div.open {
-    height: 133px;
+    height: auto;
     border:1px solid;
     border-top:0;
     border-color: #eee;
